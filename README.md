@@ -24,7 +24,7 @@ The following models are evaluated:
 - Support Vector Classifier (SVC) with SMOTE
 - XGBoost with SMOTE
 
-Model performance is assessed through metrics such as Accuracy, ROC-AUC Score, and Recall.
+Model performance is assessed through metrics such as Accuracy, ROC-AUC Score, Receiver Operating Characteristic (ROC) Curve, and Recall.
 
 ## Exploratory Data Analysis (EDA):
 
