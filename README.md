@@ -2,6 +2,9 @@
 This project utilizes machine learning algorithms to predict the 10-year risk of Coronary Heart Disease (CHD)
 The dataset includes various features such as age, BMI, blood pressure (both diastolic and systolic), heart rate, cholesterol levels, glucose levels, and daily cigarette consumption.
 
+## Tableau Dashboard
+Explore the interactive dashboard on [Tableau Public](https://public.tableau.com/views/PredictionofC_H_DusingMachineLearning/CHD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 # Key Steps in the Process:
 ### Data Preprocessing:
 
